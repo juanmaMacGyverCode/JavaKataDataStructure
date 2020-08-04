@@ -61,7 +61,7 @@ public class ShouldConfigurator {
         Configuration configuration = new Configuration(null, null, accessories);
 
         Car car = new Car("Nissan", "Leaf", "City", configuration);
-
+        /*Fix intellij*/
         assertThat(car.getConfiguration().getAccessories()).isNotNull();
         assertThat(car.getConfiguration().getColor()).isNull();
         assertThat(car.getConfiguration().getEngine()).isNull();
