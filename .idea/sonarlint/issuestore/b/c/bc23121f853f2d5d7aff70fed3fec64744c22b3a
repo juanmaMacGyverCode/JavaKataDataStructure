@@ -1,0 +1,13 @@
+
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Úúã8€·¸º.
+o	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÒ¨ïüÿÿÿÿ8¸´ş¸º.
+o	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ®Óºûÿÿÿÿ8Ñõ¸º.
+o	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü³Œ¹şÿÿÿÿ8–ÍÄµº.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‘ó„şÿÿÿÿ8µàª¸º.
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Nissan" 4 times.(„¾Á°8Ñõ¸º.
+U
+java:S1481"3Remove this unused "menuComponents" local variable.(ÁĞèëùÿÿÿÿ8Áô­¸º.
+X	java:S125:"<This block of commented-out lines of code should be removed.(©ã†ÿ8åÉˆ¹º.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÂŒ¦ó8ø³Š¸º.
